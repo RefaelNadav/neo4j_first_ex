@@ -1,0 +1,7116 @@
+[
+  {
+    "source_id": "ACC_0017",
+    "target_id": "ACC_0089",
+    "amount": 45375.91,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0086",
+    "target_id": "ACC_0019",
+    "amount": 8987.57,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0085",
+    "target_id": "ACC_0062",
+    "amount": 17356.96,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0056",
+    "target_id": "ACC_0066",
+    "amount": 12555.1,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0075",
+    "target_id": "ACC_0078",
+    "amount": 78584.62,
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0094",
+    "target_id": "ACC_0005",
+    "amount": 1603.17,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0010",
+    "target_id": "ACC_0064",
+    "amount": 43793.79,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0085",
+    "target_id": "ACC_0046",
+    "amount": 12617.92,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0060",
+    "target_id": "ACC_0049",
+    "amount": 39295.42,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0099",
+    "target_id": "ACC_0032",
+    "amount": 29660.29,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0099",
+    "target_id": "ACC_0000",
+    "amount": 35499.53,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0089",
+    "target_id": "ACC_0046",
+    "amount": 19430.07,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0019",
+    "target_id": "ACC_0015",
+    "amount": 43543.61,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0071",
+    "target_id": "ACC_0063",
+    "amount": 45597.02,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0097",
+    "target_id": "ACC_0042",
+    "amount": 7831.11,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0034",
+    "target_id": "ACC_0038",
+    "amount": 45948.06,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0091",
+    "target_id": "ACC_0051",
+    "amount": 42164.01,
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0004",
+    "target_id": "ACC_0003",
+    "amount": 42369.51,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0075",
+    "target_id": "ACC_0077",
+    "amount": 49895.31,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0081",
+    "target_id": "ACC_0052",
+    "amount": 38722.9,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0065",
+    "target_id": "ACC_0033",
+    "amount": 13374.48,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0065",
+    "target_id": "ACC_0016",
+    "amount": 43491.99,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0050",
+    "target_id": "ACC_0056",
+    "amount": 13026.99,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0017",
+    "target_id": "ACC_0030",
+    "amount": 30216.89,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0030",
+    "target_id": "ACC_0066",
+    "amount": 23460.96,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0014",
+    "target_id": "ACC_0006",
+    "amount": 21608.93,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0048",
+    "target_id": "ACC_0077",
+    "amount": 40315.69,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0004",
+    "target_id": "ACC_0099",
+    "amount": 1711.36,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0041",
+    "target_id": "ACC_0097",
+    "amount": 79812.76,
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0092",
+    "target_id": "ACC_0012",
+    "amount": 36311.23,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0042",
+    "target_id": "ACC_0024",
+    "amount": 6723.32,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0082",
+    "target_id": "ACC_0000",
+    "amount": 47795.58,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0063",
+    "target_id": "ACC_0096",
+    "amount": 10040.32,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0024",
+    "target_id": "ACC_0056",
+    "amount": 13265.99,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0071",
+    "target_id": "ACC_0048",
+    "amount": 49307.24,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0091",
+    "target_id": "ACC_0033",
+    "amount": 33023.37,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0005",
+    "target_id": "ACC_0023",
+    "amount": 43410.84,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0014",
+    "target_id": "ACC_0099",
+    "amount": 32740.57,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0009",
+    "target_id": "ACC_0075",
+    "amount": 39917.62,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0011",
+    "target_id": "ACC_0028",
+    "amount": 1380.9,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0058",
+    "target_id": "ACC_0070",
+    "amount": 40585.87,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0012",
+    "target_id": "ACC_0045",
+    "amount": 7426.59,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0004",
+    "target_id": "ACC_0015",
+    "amount": 15829.88,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0000",
+    "target_id": "ACC_0097",
+    "amount": 23306.04,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0033",
+    "target_id": "ACC_0045",
+    "amount": 83410.23,
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0059",
+    "target_id": "ACC_0043",
+    "amount": 14287.94,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0044",
+    "target_id": "ACC_0019",
+    "amount": 48369.04,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0007",
+    "target_id": "ACC_0098",
+    "amount": 26484.61,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0058",
+    "target_id": "ACC_0063",
+    "amount": 6012.87,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0033",
+    "target_id": "ACC_0002",
+    "amount": 7423.56,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0014",
+    "target_id": "ACC_0094",
+    "amount": 20552.65,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0075",
+    "target_id": "ACC_0010",
+    "amount": 42373.4,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0079",
+    "target_id": "ACC_0026",
+    "amount": 14368.33,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0029",
+    "target_id": "ACC_0071",
+    "amount": 45710.23,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0086",
+    "target_id": "ACC_0096",
+    "amount": 19881.26,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0092",
+    "target_id": "ACC_0083",
+    "amount": 33521.75,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0092",
+    "target_id": "ACC_0073",
+    "amount": 16649.65,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0054",
+    "target_id": "ACC_0021",
+    "amount": 36205.2,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0030",
+    "target_id": "ACC_0031",
+    "amount": 27599.16,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0067",
+    "target_id": "ACC_0016",
+    "amount": 21194.49,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0076",
+    "target_id": "ACC_0041",
+    "amount": 13655.24,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0081",
+    "target_id": "ACC_0033",
+    "amount": 24172.23,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0009",
+    "target_id": "ACC_0099",
+    "amount": 4564.44,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0067",
+    "target_id": "ACC_0033",
+    "amount": 18229.06,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0015",
+    "target_id": "ACC_0084",
+    "amount": 24047.02,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0099",
+    "target_id": "ACC_0069",
+    "amount": 29634.51,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0062",
+    "target_id": "ACC_0054",
+    "amount": 27104.2,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0056",
+    "target_id": "ACC_0065",
+    "amount": 26998.1,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0005",
+    "target_id": "ACC_0019",
+    "amount": 20322.02,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0091",
+    "target_id": "ACC_0023",
+    "amount": 18075.1,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0004",
+    "target_id": "ACC_0043",
+    "amount": 23273.97,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0006",
+    "target_id": "ACC_0029",
+    "amount": 42478.58,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0054",
+    "target_id": "ACC_0007",
+    "amount": 22331.93,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0080",
+    "target_id": "ACC_0093",
+    "amount": 46069.28,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0065",
+    "target_id": "ACC_0083",
+    "amount": 35976.35,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0031",
+    "target_id": "ACC_0021",
+    "amount": 13347.01,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0009",
+    "target_id": "ACC_0046",
+    "amount": 8699.17,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0082",
+    "target_id": "ACC_0045",
+    "amount": 28805.15,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0098",
+    "target_id": "ACC_0014",
+    "amount": 14099.02,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0040",
+    "target_id": "ACC_0099",
+    "amount": 47296.96,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0079",
+    "target_id": "ACC_0088",
+    "amount": 30781.82,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0041",
+    "target_id": "ACC_0085",
+    "amount": 34589.68,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0036",
+    "target_id": "ACC_0096",
+    "amount": 37247.33,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0003",
+    "target_id": "ACC_0036",
+    "amount": 12772.75,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0070",
+    "target_id": "ACC_0060",
+    "amount": 1317.72,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0062",
+    "target_id": "ACC_0068",
+    "amount": 46002.55,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0031",
+    "target_id": "ACC_0005",
+    "amount": 25336.64,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0072",
+    "target_id": "ACC_0014",
+    "amount": 11431.73,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0097",
+    "target_id": "ACC_0056",
+    "amount": 27471.67,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0083",
+    "target_id": "ACC_0033",
+    "amount": 24012.01,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0051",
+    "target_id": "ACC_0003",
+    "amount": 27552.41,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0021",
+    "target_id": "ACC_0090",
+    "amount": 44675.03,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0030",
+    "target_id": "ACC_0076",
+    "amount": 28001.66,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0080",
+    "target_id": "ACC_0036",
+    "amount": 4526.28,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0092",
+    "target_id": "ACC_0079",
+    "amount": 28809.25,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0007",
+    "target_id": "ACC_0097",
+    "amount": 38109.99,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0006",
+    "target_id": "ACC_0096",
+    "amount": 21599.78,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0098",
+    "target_id": "ACC_0004",
+    "amount": 31799.45,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0078",
+    "target_id": "ACC_0004",
+    "amount": 42905.94,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0056",
+    "target_id": "ACC_0089",
+    "amount": 10648.4,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0031",
+    "target_id": "ACC_0072",
+    "amount": 7248.6,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0091",
+    "target_id": "ACC_0029",
+    "amount": 38422.13,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0095",
+    "target_id": "ACC_0050",
+    "amount": 39316.37,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0060",
+    "target_id": "ACC_0059",
+    "amount": 17792.62,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0002",
+    "target_id": "ACC_0062",
+    "amount": 7640.47,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0051",
+    "target_id": "ACC_0028",
+    "amount": 4964.43,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0061",
+    "target_id": "ACC_0054",
+    "amount": 9663.12,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0087",
+    "target_id": "ACC_0088",
+    "amount": 45570.84,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0022",
+    "target_id": "ACC_0003",
+    "amount": 49518.52,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0028",
+    "target_id": "ACC_0029",
+    "amount": 12532.68,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0069",
+    "target_id": "ACC_0093",
+    "amount": 32011.0,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0047",
+    "target_id": "ACC_0046",
+    "amount": 29660.48,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0098",
+    "target_id": "ACC_0096",
+    "amount": 16074.47,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0005",
+    "target_id": "ACC_0040",
+    "amount": 29994.67,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0079",
+    "target_id": "ACC_0068",
+    "amount": 44868.58,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0072",
+    "target_id": "ACC_0004",
+    "amount": 32538.82,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0073",
+    "target_id": "ACC_0051",
+    "amount": 9918.52,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0092",
+    "target_id": "ACC_0000",
+    "amount": 23107.41,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0026",
+    "target_id": "ACC_0020",
+    "amount": 19348.85,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0049",
+    "target_id": "ACC_0021",
+    "amount": 46098.95,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0007",
+    "target_id": "ACC_0089",
+    "amount": 29760.72,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0019",
+    "target_id": "ACC_0045",
+    "amount": 18072.5,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0047",
+    "target_id": "ACC_0012",
+    "amount": 30724.5,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0076",
+    "target_id": "ACC_0074",
+    "amount": 4457.77,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0097",
+    "target_id": "ACC_0070",
+    "amount": 25045.32,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0053",
+    "target_id": "ACC_0046",
+    "amount": 42845.86,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0041",
+    "target_id": "ACC_0079",
+    "amount": 29597.42,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0069",
+    "target_id": "ACC_0029",
+    "amount": 34719.96,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0048",
+    "target_id": "ACC_0046",
+    "amount": 96556.46,
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0041",
+    "target_id": "ACC_0004",
+    "amount": 24859.11,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0012",
+    "target_id": "ACC_0090",
+    "amount": 17743.43,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0051",
+    "target_id": "ACC_0067",
+    "amount": 32387.33,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0080",
+    "target_id": "ACC_0033",
+    "amount": 14323.5,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0032",
+    "target_id": "ACC_0036",
+    "amount": 41621.85,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0064",
+    "target_id": "ACC_0014",
+    "amount": 20728.49,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0079",
+    "target_id": "ACC_0048",
+    "amount": 2394.71,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0001",
+    "target_id": "ACC_0091",
+    "amount": 37472.35,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0010",
+    "target_id": "ACC_0021",
+    "amount": 4550.87,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0094",
+    "target_id": "ACC_0084",
+    "amount": 19113.16,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0021",
+    "target_id": "ACC_0007",
+    "amount": 19242.42,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0048",
+    "target_id": "ACC_0089",
+    "amount": 44332.33,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0046",
+    "target_id": "ACC_0027",
+    "amount": 20457.59,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0033",
+    "target_id": "ACC_0028",
+    "amount": 23820.37,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0041",
+    "target_id": "ACC_0013",
+    "amount": 2975.84,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0026",
+    "target_id": "ACC_0041",
+    "amount": 83081.44,
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0052",
+    "target_id": "ACC_0088",
+    "amount": 10929.03,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0059",
+    "target_id": "ACC_0045",
+    "amount": 36002.59,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0094",
+    "target_id": "ACC_0050",
+    "amount": 33020.89,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0075",
+    "target_id": "ACC_0057",
+    "amount": 7216.86,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0081",
+    "target_id": "ACC_0002",
+    "amount": 3272.99,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0095",
+    "target_id": "ACC_0092",
+    "amount": 23653.6,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0061",
+    "target_id": "ACC_0040",
+    "amount": 24245.89,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0032",
+    "target_id": "ACC_0016",
+    "amount": 39324.93,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0022",
+    "target_id": "ACC_0088",
+    "amount": 22232.46,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0032",
+    "target_id": "ACC_0072",
+    "amount": 6207.98,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0015",
+    "target_id": "ACC_0090",
+    "amount": 42159.39,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0009",
+    "target_id": "ACC_0010",
+    "amount": 13655.69,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0076",
+    "target_id": "ACC_0025",
+    "amount": 25220.32,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0033",
+    "target_id": "ACC_0012",
+    "amount": 30683.77,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0011",
+    "target_id": "ACC_0065",
+    "amount": 6505.64,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0055",
+    "target_id": "ACC_0078",
+    "amount": 39214.17,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0080",
+    "target_id": "ACC_0010",
+    "amount": 11016.3,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0076",
+    "target_id": "ACC_0064",
+    "amount": 16228.52,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0033",
+    "target_id": "ACC_0037",
+    "amount": 30327.9,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0009",
+    "target_id": "ACC_0029",
+    "amount": 39188.97,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0015",
+    "target_id": "ACC_0097",
+    "amount": 27159.82,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0053",
+    "target_id": "ACC_0002",
+    "amount": 4054.5,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0040",
+    "target_id": "ACC_0087",
+    "amount": 24508.17,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0018",
+    "target_id": "ACC_0076",
+    "amount": 12488.71,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0091",
+    "target_id": "ACC_0084",
+    "amount": 28636.73,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0064",
+    "target_id": "ACC_0063",
+    "amount": 1524.39,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0002",
+    "target_id": "ACC_0040",
+    "amount": 22896.31,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0042",
+    "target_id": "ACC_0009",
+    "amount": 25812.65,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0078",
+    "target_id": "ACC_0045",
+    "amount": 35547.34,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0032",
+    "target_id": "ACC_0094",
+    "amount": 41630.29,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0032",
+    "target_id": "ACC_0051",
+    "amount": 36343.92,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0086",
+    "target_id": "ACC_0045",
+    "amount": 23917.91,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0025",
+    "target_id": "ACC_0063",
+    "amount": 48334.05,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0069",
+    "target_id": "ACC_0054",
+    "amount": 24402.83,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0073",
+    "target_id": "ACC_0014",
+    "amount": 37071.48,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0033",
+    "target_id": "ACC_0015",
+    "amount": 17661.52,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0059",
+    "target_id": "ACC_0022",
+    "amount": 2372.05,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0038",
+    "target_id": "ACC_0008",
+    "amount": 15603.66,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0016",
+    "target_id": "ACC_0040",
+    "amount": 46319.86,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0012",
+    "target_id": "ACC_0077",
+    "amount": 10118.37,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0028",
+    "target_id": "ACC_0063",
+    "amount": 4014.7,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0043",
+    "target_id": "ACC_0009",
+    "amount": 30261.35,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0013",
+    "target_id": "ACC_0021",
+    "amount": 27686.72,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0008",
+    "target_id": "ACC_0000",
+    "amount": 7257.38,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0018",
+    "target_id": "ACC_0053",
+    "amount": 6839.52,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0036",
+    "target_id": "ACC_0010",
+    "amount": 36813.1,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0041",
+    "target_id": "ACC_0043",
+    "amount": 38331.59,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0067",
+    "target_id": "ACC_0053",
+    "amount": 37668.45,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0004",
+    "target_id": "ACC_0058",
+    "amount": 19997.51,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0049",
+    "target_id": "ACC_0064",
+    "amount": 13642.58,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0056",
+    "target_id": "ACC_0060",
+    "amount": 11244.96,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0065",
+    "target_id": "ACC_0031",
+    "amount": 38973.9,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0076",
+    "target_id": "ACC_0029",
+    "amount": 36381.54,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0025",
+    "target_id": "ACC_0002",
+    "amount": 34586.94,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0018",
+    "target_id": "ACC_0026",
+    "amount": 29018.16,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0007",
+    "target_id": "ACC_0077",
+    "amount": 49820.54,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0058",
+    "target_id": "ACC_0004",
+    "amount": 38780.25,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0069",
+    "target_id": "ACC_0045",
+    "amount": 28910.99,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0089",
+    "target_id": "ACC_0015",
+    "amount": 3386.54,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0030",
+    "target_id": "ACC_0077",
+    "amount": 39375.21,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0016",
+    "target_id": "ACC_0082",
+    "amount": 9996.91,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0055",
+    "target_id": "ACC_0099",
+    "amount": 38461.56,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0097",
+    "target_id": "ACC_0099",
+    "amount": 35324.74,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0089",
+    "target_id": "ACC_0003",
+    "amount": 36788.7,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0011",
+    "target_id": "ACC_0005",
+    "amount": 17713.85,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0023",
+    "target_id": "ACC_0045",
+    "amount": 6955.21,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0019",
+    "target_id": "ACC_0094",
+    "amount": 32537.59,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0041",
+    "target_id": "ACC_0088",
+    "amount": 23276.73,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0011",
+    "target_id": "ACC_0073",
+    "amount": 25622.94,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0023",
+    "target_id": "ACC_0034",
+    "amount": 44914.94,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0031",
+    "target_id": "ACC_0004",
+    "amount": 15043.3,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0092",
+    "target_id": "ACC_0096",
+    "amount": 11466.32,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0051",
+    "target_id": "ACC_0052",
+    "amount": 39147.73,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0074",
+    "target_id": "ACC_0042",
+    "amount": 44792.89,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0006",
+    "target_id": "ACC_0094",
+    "amount": 11126.12,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0012",
+    "target_id": "ACC_0019",
+    "amount": 11107.78,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0047",
+    "target_id": "ACC_0087",
+    "amount": 20600.45,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0067",
+    "target_id": "ACC_0001",
+    "amount": 40959.56,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0051",
+    "target_id": "ACC_0047",
+    "amount": 44936.69,
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0009",
+    "target_id": "ACC_0039",
+    "amount": 14438.18,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0076",
+    "target_id": "ACC_0077",
+    "amount": 5713.94,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0013",
+    "target_id": "ACC_0046",
+    "amount": 23471.95,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0009",
+    "target_id": "ACC_0040",
+    "amount": 49822.13,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0039",
+    "target_id": "ACC_0090",
+    "amount": 6698.06,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0039",
+    "target_id": "ACC_0005",
+    "amount": 19040.16,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0028",
+    "target_id": "ACC_0029",
+    "amount": 31951.78,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0059",
+    "target_id": "ACC_0009",
+    "amount": 22267.81,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0079",
+    "target_id": "ACC_0013",
+    "amount": 19022.39,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0086",
+    "target_id": "ACC_0012",
+    "amount": 30110.35,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0004",
+    "target_id": "ACC_0091",
+    "amount": 5767.31,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0090",
+    "target_id": "ACC_0026",
+    "amount": 14287.8,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0032",
+    "target_id": "ACC_0011",
+    "amount": 3395.11,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0026",
+    "target_id": "ACC_0086",
+    "amount": 10134.91,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0047",
+    "target_id": "ACC_0094",
+    "amount": 26638.09,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0083",
+    "target_id": "ACC_0002",
+    "amount": 6252.53,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0007",
+    "target_id": "ACC_0016",
+    "amount": 14330.05,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0042",
+    "target_id": "ACC_0094",
+    "amount": 38155.82,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0076",
+    "target_id": "ACC_0074",
+    "amount": 13898.42,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0089",
+    "target_id": "ACC_0054",
+    "amount": 25095.86,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0085",
+    "target_id": "ACC_0078",
+    "amount": 6679.8,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0059",
+    "target_id": "ACC_0043",
+    "amount": 17425.14,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0000",
+    "target_id": "ACC_0006",
+    "amount": 3981.63,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0052",
+    "target_id": "ACC_0007",
+    "amount": 27623.19,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0005",
+    "target_id": "ACC_0039",
+    "amount": 25361.74,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0091",
+    "target_id": "ACC_0048",
+    "amount": 10757.71,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0026",
+    "target_id": "ACC_0005",
+    "amount": 13525.07,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0098",
+    "target_id": "ACC_0016",
+    "amount": 12633.67,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0011",
+    "target_id": "ACC_0073",
+    "amount": 40115.84,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0046",
+    "target_id": "ACC_0015",
+    "amount": 8551.6,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0035",
+    "target_id": "ACC_0096",
+    "amount": 33306.51,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0029",
+    "target_id": "ACC_0021",
+    "amount": 17283.93,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0090",
+    "target_id": "ACC_0046",
+    "amount": 42036.35,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0068",
+    "target_id": "ACC_0017",
+    "amount": 18041.75,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0082",
+    "target_id": "ACC_0032",
+    "amount": 31915.13,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0013",
+    "target_id": "ACC_0000",
+    "amount": 25367.51,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0010",
+    "target_id": "ACC_0029",
+    "amount": 37703.75,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0047",
+    "target_id": "ACC_0044",
+    "amount": 45193.14,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0040",
+    "target_id": "ACC_0011",
+    "amount": 49087.63,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0078",
+    "target_id": "ACC_0002",
+    "amount": 31761.47,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0086",
+    "target_id": "ACC_0060",
+    "amount": 6858.68,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0094",
+    "target_id": "ACC_0012",
+    "amount": 21876.0,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0007",
+    "target_id": "ACC_0042",
+    "amount": 20051.94,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0033",
+    "target_id": "ACC_0080",
+    "amount": 21971.53,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0017",
+    "target_id": "ACC_0063",
+    "amount": 42108.21,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0028",
+    "target_id": "ACC_0016",
+    "amount": 46089.31,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0091",
+    "target_id": "ACC_0052",
+    "amount": 6940.5,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0030",
+    "target_id": "ACC_0072",
+    "amount": 47003.13,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0013",
+    "target_id": "ACC_0090",
+    "amount": 31720.52,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0063",
+    "target_id": "ACC_0037",
+    "amount": 44684.22,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0041",
+    "target_id": "ACC_0049",
+    "amount": 43576.81,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0089",
+    "target_id": "ACC_0073",
+    "amount": 23077.06,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0075",
+    "target_id": "ACC_0099",
+    "amount": 44991.06,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0040",
+    "target_id": "ACC_0036",
+    "amount": 14715.19,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0066",
+    "target_id": "ACC_0038",
+    "amount": 37217.48,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0024",
+    "target_id": "ACC_0001",
+    "amount": 32548.75,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0067",
+    "target_id": "ACC_0011",
+    "amount": 49454.7,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0054",
+    "target_id": "ACC_0005",
+    "amount": 45995.42,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0030",
+    "target_id": "ACC_0068",
+    "amount": 9213.17,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0080",
+    "target_id": "ACC_0032",
+    "amount": 40762.78,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0089",
+    "target_id": "ACC_0001",
+    "amount": 38159.88,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0009",
+    "target_id": "ACC_0034",
+    "amount": 13430.39,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0055",
+    "target_id": "ACC_0061",
+    "amount": 22544.97,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0091",
+    "target_id": "ACC_0046",
+    "amount": 4277.07,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0003",
+    "target_id": "ACC_0047",
+    "amount": 40706.96,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0080",
+    "target_id": "ACC_0036",
+    "amount": 3343.14,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0095",
+    "target_id": "ACC_0076",
+    "amount": 6935.03,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0079",
+    "target_id": "ACC_0071",
+    "amount": 37914.95,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0076",
+    "target_id": "ACC_0038",
+    "amount": 29930.81,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0063",
+    "target_id": "ACC_0008",
+    "amount": 35523.18,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0017",
+    "target_id": "ACC_0076",
+    "amount": 39751.0,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0088",
+    "target_id": "ACC_0048",
+    "amount": 16121.84,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0001",
+    "target_id": "ACC_0053",
+    "amount": 35081.62,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0083",
+    "target_id": "ACC_0025",
+    "amount": 8363.35,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0049",
+    "target_id": "ACC_0055",
+    "amount": 36362.98,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0054",
+    "target_id": "ACC_0000",
+    "amount": 42479.97,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0042",
+    "target_id": "ACC_0017",
+    "amount": 46613.79,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0023",
+    "target_id": "ACC_0070",
+    "amount": 40125.89,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0016",
+    "target_id": "ACC_0043",
+    "amount": 38451.76,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0091",
+    "target_id": "ACC_0055",
+    "amount": 16090.17,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0030",
+    "target_id": "ACC_0067",
+    "amount": 21142.55,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0036",
+    "target_id": "ACC_0029",
+    "amount": 2125.55,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0077",
+    "target_id": "ACC_0024",
+    "amount": 10789.56,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0021",
+    "target_id": "ACC_0005",
+    "amount": 12018.36,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0016",
+    "target_id": "ACC_0077",
+    "amount": 24227.84,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0082",
+    "target_id": "ACC_0091",
+    "amount": 43026.34,
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0052",
+    "target_id": "ACC_0082",
+    "amount": 4888.51,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0079",
+    "target_id": "ACC_0012",
+    "amount": 22986.35,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0099",
+    "target_id": "ACC_0007",
+    "amount": 47093.33,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0079",
+    "target_id": "ACC_0033",
+    "amount": 5581.98,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0025",
+    "target_id": "ACC_0017",
+    "amount": 12110.79,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0031",
+    "target_id": "ACC_0040",
+    "amount": 46485.8,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0090",
+    "target_id": "ACC_0017",
+    "amount": 9290.56,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0067",
+    "target_id": "ACC_0042",
+    "amount": 38833.86,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0017",
+    "target_id": "ACC_0085",
+    "amount": 41557.41,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0089",
+    "target_id": "ACC_0085",
+    "amount": 4516.74,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0037",
+    "target_id": "ACC_0039",
+    "amount": 34947.39,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0048",
+    "target_id": "ACC_0085",
+    "amount": 9536.24,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0052",
+    "target_id": "ACC_0099",
+    "amount": 4139.73,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0008",
+    "target_id": "ACC_0054",
+    "amount": 15089.6,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0071",
+    "target_id": "ACC_0004",
+    "amount": 32997.53,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0016",
+    "target_id": "ACC_0024",
+    "amount": 7262.98,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0092",
+    "target_id": "ACC_0069",
+    "amount": 31151.4,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0015",
+    "target_id": "ACC_0051",
+    "amount": 44892.13,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0001",
+    "target_id": "ACC_0008",
+    "amount": 12044.4,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0020",
+    "target_id": "ACC_0071",
+    "amount": 26168.23,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0043",
+    "target_id": "ACC_0098",
+    "amount": 23057.78,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0045",
+    "target_id": "ACC_0068",
+    "amount": 3039.5,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0031",
+    "target_id": "ACC_0081",
+    "amount": 33009.37,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0033",
+    "target_id": "ACC_0043",
+    "amount": 4861.38,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0044",
+    "target_id": "ACC_0062",
+    "amount": 25795.1,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0067",
+    "target_id": "ACC_0045",
+    "amount": 4760.76,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0088",
+    "target_id": "ACC_0048",
+    "amount": 20856.29,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0078",
+    "target_id": "ACC_0047",
+    "amount": 44433.82,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0081",
+    "target_id": "ACC_0049",
+    "amount": 49228.13,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0011",
+    "target_id": "ACC_0007",
+    "amount": 37394.53,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0081",
+    "target_id": "ACC_0007",
+    "amount": 30365.32,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0075",
+    "target_id": "ACC_0097",
+    "amount": 30015.19,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0067",
+    "target_id": "ACC_0003",
+    "amount": 35669.23,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0065",
+    "target_id": "ACC_0063",
+    "amount": 13829.73,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0091",
+    "target_id": "ACC_0028",
+    "amount": 10721.53,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0053",
+    "target_id": "ACC_0060",
+    "amount": 17767.27,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0002",
+    "target_id": "ACC_0078",
+    "amount": 18685.42,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0062",
+    "target_id": "ACC_0085",
+    "amount": 33977.9,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0061",
+    "target_id": "ACC_0063",
+    "amount": 13607.62,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0040",
+    "target_id": "ACC_0035",
+    "amount": 40289.41,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0096",
+    "target_id": "ACC_0026",
+    "amount": 41951.35,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0023",
+    "target_id": "ACC_0074",
+    "amount": 24898.32,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0024",
+    "target_id": "ACC_0094",
+    "amount": 43431.7,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0088",
+    "target_id": "ACC_0034",
+    "amount": 38863.45,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0085",
+    "target_id": "ACC_0004",
+    "amount": 9696.26,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0078",
+    "target_id": "ACC_0033",
+    "amount": 78038.22,
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0052",
+    "target_id": "ACC_0089",
+    "amount": 11262.58,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0046",
+    "target_id": "ACC_0079",
+    "amount": 29470.3,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0028",
+    "target_id": "ACC_0035",
+    "amount": 33115.98,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0025",
+    "target_id": "ACC_0063",
+    "amount": 45917.88,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0043",
+    "target_id": "ACC_0046",
+    "amount": 38046.22,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0038",
+    "target_id": "ACC_0083",
+    "amount": 33469.44,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0046",
+    "target_id": "ACC_0009",
+    "amount": 42831.88,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0025",
+    "target_id": "ACC_0095",
+    "amount": 33988.52,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0094",
+    "target_id": "ACC_0088",
+    "amount": 39842.66,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0089",
+    "target_id": "ACC_0052",
+    "amount": 18675.18,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0082",
+    "target_id": "ACC_0085",
+    "amount": 12948.97,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0089",
+    "target_id": "ACC_0046",
+    "amount": 29190.64,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0039",
+    "target_id": "ACC_0034",
+    "amount": 38975.59,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0036",
+    "target_id": "ACC_0014",
+    "amount": 32343.98,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0014",
+    "target_id": "ACC_0064",
+    "amount": 20742.36,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0087",
+    "target_id": "ACC_0083",
+    "amount": 3252.35,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0068",
+    "target_id": "ACC_0049",
+    "amount": 2599.53,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0029",
+    "target_id": "ACC_0073",
+    "amount": 33258.95,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0077",
+    "target_id": "ACC_0064",
+    "amount": 31231.22,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0074",
+    "target_id": "ACC_0046",
+    "amount": 33784.36,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0014",
+    "target_id": "ACC_0080",
+    "amount": 48539.94,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0090",
+    "target_id": "ACC_0030",
+    "amount": 11533.05,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0030",
+    "target_id": "ACC_0025",
+    "amount": 21754.87,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0027",
+    "target_id": "ACC_0023",
+    "amount": 2386.5,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0050",
+    "target_id": "ACC_0006",
+    "amount": 44193.93,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0026",
+    "target_id": "ACC_0095",
+    "amount": 8955.59,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0064",
+    "target_id": "ACC_0090",
+    "amount": 18888.3,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0064",
+    "target_id": "ACC_0096",
+    "amount": 36972.58,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0012",
+    "target_id": "ACC_0024",
+    "amount": 3554.88,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0082",
+    "target_id": "ACC_0051",
+    "amount": 31871.72,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0044",
+    "target_id": "ACC_0059",
+    "amount": 2996.66,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0088",
+    "target_id": "ACC_0023",
+    "amount": 44815.7,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0019",
+    "target_id": "ACC_0093",
+    "amount": 14748.37,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0064",
+    "target_id": "ACC_0046",
+    "amount": 24608.72,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0000",
+    "target_id": "ACC_0062",
+    "amount": 3374.41,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0016",
+    "target_id": "ACC_0049",
+    "amount": 18062.71,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0027",
+    "target_id": "ACC_0016",
+    "amount": 41925.67,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0036",
+    "target_id": "ACC_0008",
+    "amount": 9423.12,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0028",
+    "target_id": "ACC_0077",
+    "amount": 41793.67,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0068",
+    "target_id": "ACC_0043",
+    "amount": 10452.17,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0086",
+    "target_id": "ACC_0039",
+    "amount": 11614.41,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0028",
+    "target_id": "ACC_0037",
+    "amount": 35746.96,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0092",
+    "target_id": "ACC_0073",
+    "amount": 19525.53,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0052",
+    "target_id": "ACC_0032",
+    "amount": 11540.94,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0003",
+    "target_id": "ACC_0079",
+    "amount": 44084.56,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0087",
+    "target_id": "ACC_0083",
+    "amount": 48612.47,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0051",
+    "target_id": "ACC_0073",
+    "amount": 34732.75,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0040",
+    "target_id": "ACC_0061",
+    "amount": 12577.29,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0091",
+    "target_id": "ACC_0093",
+    "amount": 24689.61,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0046",
+    "target_id": "ACC_0055",
+    "amount": 35010.2,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0084",
+    "target_id": "ACC_0022",
+    "amount": 13111.19,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0073",
+    "target_id": "ACC_0020",
+    "amount": 27018.34,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0096",
+    "target_id": "ACC_0072",
+    "amount": 4385.47,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0069",
+    "target_id": "ACC_0030",
+    "amount": 27576.95,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0000",
+    "target_id": "ACC_0064",
+    "amount": 44703.41,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0090",
+    "target_id": "ACC_0057",
+    "amount": 19043.84,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0004",
+    "target_id": "ACC_0082",
+    "amount": 37051.42,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0043",
+    "target_id": "ACC_0092",
+    "amount": 19770.38,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0094",
+    "target_id": "ACC_0020",
+    "amount": 40053.44,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0043",
+    "target_id": "ACC_0028",
+    "amount": 27589.23,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0071",
+    "target_id": "ACC_0056",
+    "amount": 37554.53,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0038",
+    "target_id": "ACC_0062",
+    "amount": 33844.03,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0043",
+    "target_id": "ACC_0024",
+    "amount": 27138.77,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0007",
+    "target_id": "ACC_0093",
+    "amount": 32465.95,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0099",
+    "target_id": "ACC_0051",
+    "amount": 4286.25,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0091",
+    "target_id": "ACC_0018",
+    "amount": 17978.72,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0057",
+    "target_id": "ACC_0066",
+    "amount": 24526.28,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0010",
+    "target_id": "ACC_0066",
+    "amount": 21528.88,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0018",
+    "target_id": "ACC_0027",
+    "amount": 45990.89,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0021",
+    "target_id": "ACC_0010",
+    "amount": 6238.84,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0088",
+    "target_id": "ACC_0047",
+    "amount": 26211.04,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0081",
+    "target_id": "ACC_0040",
+    "amount": 49800.91,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0070",
+    "target_id": "ACC_0048",
+    "amount": 2187.7,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0092",
+    "target_id": "ACC_0035",
+    "amount": 20067.7,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0004",
+    "target_id": "ACC_0054",
+    "amount": 5291.54,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0042",
+    "target_id": "ACC_0067",
+    "amount": 5753.81,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0074",
+    "target_id": "ACC_0048",
+    "amount": 91902.8,
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0065",
+    "target_id": "ACC_0019",
+    "amount": 15999.71,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0064",
+    "target_id": "ACC_0001",
+    "amount": 19941.19,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0017",
+    "target_id": "ACC_0030",
+    "amount": 48856.02,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0066",
+    "target_id": "ACC_0070",
+    "amount": 18674.92,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0055",
+    "target_id": "ACC_0072",
+    "amount": 26712.13,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0007",
+    "target_id": "ACC_0078",
+    "amount": 35915.07,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0065",
+    "target_id": "ACC_0012",
+    "amount": 4796.1,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0097",
+    "target_id": "ACC_0085",
+    "amount": 39055.41,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0077",
+    "target_id": "ACC_0074",
+    "amount": 10051.24,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0091",
+    "target_id": "ACC_0042",
+    "amount": 22778.83,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0043",
+    "target_id": "ACC_0071",
+    "amount": 8128.58,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0067",
+    "target_id": "ACC_0037",
+    "amount": 34028.35,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0091",
+    "target_id": "ACC_0082",
+    "amount": 32652.36,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0058",
+    "target_id": "ACC_0093",
+    "amount": 8735.47,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0082",
+    "target_id": "ACC_0097",
+    "amount": 20585.62,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0070",
+    "target_id": "ACC_0081",
+    "amount": 36758.71,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0034",
+    "target_id": "ACC_0096",
+    "amount": 31192.21,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0039",
+    "target_id": "ACC_0071",
+    "amount": 1905.29,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0058",
+    "target_id": "ACC_0052",
+    "amount": 12388.73,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0014",
+    "target_id": "ACC_0065",
+    "amount": 48104.34,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0028",
+    "target_id": "ACC_0052",
+    "amount": 5051.32,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0035",
+    "target_id": "ACC_0078",
+    "amount": 43077.54,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0039",
+    "target_id": "ACC_0001",
+    "amount": 42267.42,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0085",
+    "target_id": "ACC_0048",
+    "amount": 28036.4,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0092",
+    "target_id": "ACC_0035",
+    "amount": 31711.86,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0075",
+    "target_id": "ACC_0027",
+    "amount": 33007.84,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0007",
+    "target_id": "ACC_0017",
+    "amount": 23021.44,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0078",
+    "target_id": "ACC_0005",
+    "amount": 43096.91,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0075",
+    "target_id": "ACC_0081",
+    "amount": 28326.62,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0035",
+    "target_id": "ACC_0056",
+    "amount": 40852.02,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0031",
+    "target_id": "ACC_0049",
+    "amount": 34153.53,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0048",
+    "target_id": "ACC_0017",
+    "amount": 31066.98,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0004",
+    "target_id": "ACC_0002",
+    "amount": 26135.28,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0037",
+    "target_id": "ACC_0026",
+    "amount": 33491.1,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0040",
+    "target_id": "ACC_0056",
+    "amount": 1103.02,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0045",
+    "target_id": "ACC_0043",
+    "amount": 18076.91,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0091",
+    "target_id": "ACC_0052",
+    "amount": 25098.06,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0059",
+    "target_id": "ACC_0039",
+    "amount": 40754.39,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0040",
+    "target_id": "ACC_0026",
+    "amount": 21005.73,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0043",
+    "target_id": "ACC_0082",
+    "amount": 19651.76,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0032",
+    "target_id": "ACC_0071",
+    "amount": 42169.2,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0018",
+    "target_id": "ACC_0053",
+    "amount": 5735.61,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0010",
+    "target_id": "ACC_0039",
+    "amount": 46130.22,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0028",
+    "target_id": "ACC_0026",
+    "amount": 41687.64,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0073",
+    "target_id": "ACC_0092",
+    "amount": 2348.61,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0091",
+    "target_id": "ACC_0004",
+    "amount": 36054.42,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0068",
+    "target_id": "ACC_0092",
+    "amount": 11956.95,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0036",
+    "target_id": "ACC_0082",
+    "amount": 41370.89,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0015",
+    "target_id": "ACC_0067",
+    "amount": 7615.52,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0082",
+    "target_id": "ACC_0063",
+    "amount": 6158.21,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0030",
+    "target_id": "ACC_0057",
+    "amount": 36998.53,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0046",
+    "target_id": "ACC_0048",
+    "amount": 21268.61,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0045",
+    "target_id": "ACC_0091",
+    "amount": 36238.49,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0031",
+    "target_id": "ACC_0049",
+    "amount": 45827.93,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0009",
+    "target_id": "ACC_0048",
+    "amount": 15438.16,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0035",
+    "target_id": "ACC_0055",
+    "amount": 26671.4,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0088",
+    "target_id": "ACC_0044",
+    "amount": 12439.84,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0095",
+    "target_id": "ACC_0035",
+    "amount": 45854.48,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0028",
+    "target_id": "ACC_0025",
+    "amount": 35425.17,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0030",
+    "target_id": "ACC_0094",
+    "amount": 26825.31,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0084",
+    "target_id": "ACC_0064",
+    "amount": 4536.99,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0060",
+    "target_id": "ACC_0062",
+    "amount": 42718.57,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0088",
+    "target_id": "ACC_0051",
+    "amount": 11294.76,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0073",
+    "target_id": "ACC_0091",
+    "amount": 23640.18,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0031",
+    "target_id": "ACC_0008",
+    "amount": 16996.27,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0041",
+    "target_id": "ACC_0037",
+    "amount": 11504.88,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0066",
+    "target_id": "ACC_0062",
+    "amount": 43380.86,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0035",
+    "target_id": "ACC_0053",
+    "amount": 21554.65,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0031",
+    "target_id": "ACC_0095",
+    "amount": 41717.53,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0026",
+    "target_id": "ACC_0070",
+    "amount": 46143.21,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0008",
+    "target_id": "ACC_0033",
+    "amount": 41102.06,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0057",
+    "target_id": "ACC_0020",
+    "amount": 28225.7,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0037",
+    "target_id": "ACC_0097",
+    "amount": 42722.47,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0014",
+    "target_id": "ACC_0012",
+    "amount": 19623.47,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0004",
+    "target_id": "ACC_0054",
+    "amount": 32695.98,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0048",
+    "target_id": "ACC_0096",
+    "amount": 7128.04,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0016",
+    "target_id": "ACC_0038",
+    "amount": 20641.35,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0015",
+    "target_id": "ACC_0093",
+    "amount": 17046.98,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0003",
+    "target_id": "ACC_0081",
+    "amount": 39001.58,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0056",
+    "target_id": "ACC_0031",
+    "amount": 48466.23,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0049",
+    "target_id": "ACC_0006",
+    "amount": 7106.47,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0015",
+    "target_id": "ACC_0060",
+    "amount": 42521.96,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0001",
+    "target_id": "ACC_0016",
+    "amount": 19783.3,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0046",
+    "target_id": "ACC_0097",
+    "amount": 7827.65,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0037",
+    "target_id": "ACC_0018",
+    "amount": 8122.09,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0099",
+    "target_id": "ACC_0037",
+    "amount": 46396.13,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0089",
+    "target_id": "ACC_0016",
+    "amount": 22742.46,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0066",
+    "target_id": "ACC_0024",
+    "amount": 46071.6,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0039",
+    "target_id": "ACC_0029",
+    "amount": 3053.79,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0023",
+    "target_id": "ACC_0096",
+    "amount": 34697.48,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0094",
+    "target_id": "ACC_0069",
+    "amount": 43638.27,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0075",
+    "target_id": "ACC_0003",
+    "amount": 4438.89,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0019",
+    "target_id": "ACC_0085",
+    "amount": 23351.26,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0087",
+    "target_id": "ACC_0065",
+    "amount": 34022.48,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0020",
+    "target_id": "ACC_0063",
+    "amount": 17151.43,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0067",
+    "target_id": "ACC_0087",
+    "amount": 46167.68,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0036",
+    "target_id": "ACC_0022",
+    "amount": 6683.18,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0036",
+    "target_id": "ACC_0026",
+    "amount": 80871.62,
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0065",
+    "target_id": "ACC_0033",
+    "amount": 22962.34,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0003",
+    "target_id": "ACC_0006",
+    "amount": 22978.57,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0066",
+    "target_id": "ACC_0039",
+    "amount": 46993.26,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0067",
+    "target_id": "ACC_0091",
+    "amount": 32498.21,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0075",
+    "target_id": "ACC_0070",
+    "amount": 32431.32,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0030",
+    "target_id": "ACC_0001",
+    "amount": 36776.07,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0006",
+    "target_id": "ACC_0042",
+    "amount": 47511.94,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0076",
+    "target_id": "ACC_0019",
+    "amount": 7167.07,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0016",
+    "target_id": "ACC_0087",
+    "amount": 43278.85,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0069",
+    "target_id": "ACC_0012",
+    "amount": 24972.98,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0093",
+    "target_id": "ACC_0055",
+    "amount": 1152.47,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0003",
+    "target_id": "ACC_0054",
+    "amount": 18024.06,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0098",
+    "target_id": "ACC_0066",
+    "amount": 43066.9,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0004",
+    "target_id": "ACC_0022",
+    "amount": 39091.05,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0053",
+    "target_id": "ACC_0075",
+    "amount": 44914.68,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0054",
+    "target_id": "ACC_0028",
+    "amount": 37439.13,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0057",
+    "target_id": "ACC_0089",
+    "amount": 37559.06,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0050",
+    "target_id": "ACC_0085",
+    "amount": 20006.41,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0008",
+    "target_id": "ACC_0098",
+    "amount": 7324.42,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0091",
+    "target_id": "ACC_0033",
+    "amount": 9161.37,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0058",
+    "target_id": "ACC_0012",
+    "amount": 12881.56,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0034",
+    "target_id": "ACC_0035",
+    "amount": 30933.18,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0097",
+    "target_id": "ACC_0002",
+    "amount": 1883.1,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0079",
+    "target_id": "ACC_0088",
+    "amount": 22878.96,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0027",
+    "target_id": "ACC_0080",
+    "amount": 48333.26,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0041",
+    "target_id": "ACC_0017",
+    "amount": 38458.19,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0098",
+    "target_id": "ACC_0005",
+    "amount": 6938.32,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0089",
+    "target_id": "ACC_0054",
+    "amount": 18872.84,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0041",
+    "target_id": "ACC_0034",
+    "amount": 42260.33,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0098",
+    "target_id": "ACC_0033",
+    "amount": 44700.75,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0049",
+    "target_id": "ACC_0000",
+    "amount": 38023.18,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0052",
+    "target_id": "ACC_0013",
+    "amount": 19520.76,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0064",
+    "target_id": "ACC_0014",
+    "amount": 25095.48,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0020",
+    "target_id": "ACC_0041",
+    "amount": 6760.96,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0065",
+    "target_id": "ACC_0034",
+    "amount": 11240.63,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0055",
+    "target_id": "ACC_0059",
+    "amount": 17945.26,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0057",
+    "target_id": "ACC_0006",
+    "amount": 21773.93,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0058",
+    "target_id": "ACC_0099",
+    "amount": 7769.38,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0030",
+    "target_id": "ACC_0071",
+    "amount": 28052.0,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0004",
+    "target_id": "ACC_0017",
+    "amount": 23644.49,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0077",
+    "target_id": "ACC_0080",
+    "amount": 33412.23,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0090",
+    "target_id": "ACC_0048",
+    "amount": 19724.44,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0046",
+    "target_id": "ACC_0042",
+    "amount": 33508.16,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0001",
+    "target_id": "ACC_0038",
+    "amount": 25170.36,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0069",
+    "target_id": "ACC_0018",
+    "amount": 42960.56,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0034",
+    "target_id": "ACC_0099",
+    "amount": 28945.85,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0043",
+    "target_id": "ACC_0077",
+    "amount": 48261.29,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0027",
+    "target_id": "ACC_0046",
+    "amount": 21594.15,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0008",
+    "target_id": "ACC_0005",
+    "amount": 42642.03,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0079",
+    "target_id": "ACC_0077",
+    "amount": 30025.85,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0098",
+    "target_id": "ACC_0028",
+    "amount": 28319.37,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0076",
+    "target_id": "ACC_0023",
+    "amount": 46504.02,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0009",
+    "target_id": "ACC_0030",
+    "amount": 31336.59,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0032",
+    "target_id": "ACC_0029",
+    "amount": 36303.59,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0019",
+    "target_id": "ACC_0013",
+    "amount": 3197.37,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0084",
+    "target_id": "ACC_0024",
+    "amount": 7495.11,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0074",
+    "target_id": "ACC_0013",
+    "amount": 48359.18,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0098",
+    "target_id": "ACC_0058",
+    "amount": 44666.36,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0082",
+    "target_id": "ACC_0007",
+    "amount": 13162.1,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0056",
+    "target_id": "ACC_0025",
+    "amount": 12776.5,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0064",
+    "target_id": "ACC_0029",
+    "amount": 32326.66,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0036",
+    "target_id": "ACC_0035",
+    "amount": 10758.0,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0062",
+    "target_id": "ACC_0013",
+    "amount": 19239.14,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0031",
+    "target_id": "ACC_0028",
+    "amount": 37126.57,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0023",
+    "target_id": "ACC_0083",
+    "amount": 19795.92,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0058",
+    "target_id": "ACC_0043",
+    "amount": 7973.52,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0042",
+    "target_id": "ACC_0016",
+    "amount": 35978.8,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0074",
+    "target_id": "ACC_0027",
+    "amount": 28273.67,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0030",
+    "target_id": "ACC_0097",
+    "amount": 9895.57,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0002",
+    "target_id": "ACC_0049",
+    "amount": 17304.24,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0097",
+    "target_id": "ACC_0009",
+    "amount": 21079.2,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0034",
+    "target_id": "ACC_0031",
+    "amount": 20219.57,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0068",
+    "target_id": "ACC_0057",
+    "amount": 31160.23,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0087",
+    "target_id": "ACC_0097",
+    "amount": 32413.77,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0003",
+    "target_id": "ACC_0007",
+    "amount": 45846.86,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0065",
+    "target_id": "ACC_0049",
+    "amount": 24920.5,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0017",
+    "target_id": "ACC_0064",
+    "amount": 17175.39,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0049",
+    "target_id": "ACC_0076",
+    "amount": 20196.8,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0075",
+    "target_id": "ACC_0095",
+    "amount": 4944.5,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0017",
+    "target_id": "ACC_0054",
+    "amount": 16505.16,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0013",
+    "target_id": "ACC_0096",
+    "amount": 35778.75,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0042",
+    "target_id": "ACC_0060",
+    "amount": 33742.42,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0046",
+    "target_id": "ACC_0002",
+    "amount": 41540.1,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0049",
+    "target_id": "ACC_0075",
+    "amount": 32476.78,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0021",
+    "target_id": "ACC_0057",
+    "amount": 31064.42,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0018",
+    "target_id": "ACC_0058",
+    "amount": 24995.2,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0081",
+    "target_id": "ACC_0028",
+    "amount": 24025.0,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0087",
+    "target_id": "ACC_0040",
+    "amount": 43486.52,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0021",
+    "target_id": "ACC_0052",
+    "amount": 21812.51,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0092",
+    "target_id": "ACC_0053",
+    "amount": 49182.09,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0038",
+    "target_id": "ACC_0031",
+    "amount": 20730.08,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0038",
+    "target_id": "ACC_0096",
+    "amount": 26802.9,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0028",
+    "target_id": "ACC_0012",
+    "amount": 11292.96,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0008",
+    "target_id": "ACC_0066",
+    "amount": 46938.02,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0006",
+    "target_id": "ACC_0065",
+    "amount": 9121.32,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0092",
+    "target_id": "ACC_0022",
+    "amount": 7407.53,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0007",
+    "target_id": "ACC_0078",
+    "amount": 5482.88,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0001",
+    "target_id": "ACC_0003",
+    "amount": 34697.27,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0006",
+    "target_id": "ACC_0090",
+    "amount": 18570.84,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0087",
+    "target_id": "ACC_0028",
+    "amount": 25822.82,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0049",
+    "target_id": "ACC_0028",
+    "amount": 11588.1,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0085",
+    "target_id": "ACC_0034",
+    "amount": 2104.99,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0065",
+    "target_id": "ACC_0058",
+    "amount": 25318.6,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0081",
+    "target_id": "ACC_0050",
+    "amount": 22940.16,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0044",
+    "target_id": "ACC_0004",
+    "amount": 15297.97,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0033",
+    "target_id": "ACC_0030",
+    "amount": 20229.71,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0046",
+    "target_id": "ACC_0080",
+    "amount": 13585.74,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0047",
+    "target_id": "ACC_0082",
+    "amount": 42004.21,
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0097",
+    "target_id": "ACC_0010",
+    "amount": 32586.18,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0098",
+    "target_id": "ACC_0095",
+    "amount": 19702.37,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0072",
+    "target_id": "ACC_0039",
+    "amount": 6211.45,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0027",
+    "target_id": "ACC_0063",
+    "amount": 18182.8,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0004",
+    "target_id": "ACC_0026",
+    "amount": 19506.71,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0015",
+    "target_id": "ACC_0057",
+    "amount": 22932.17,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0034",
+    "target_id": "ACC_0000",
+    "amount": 1391.36,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0090",
+    "target_id": "ACC_0030",
+    "amount": 19127.29,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0036",
+    "target_id": "ACC_0035",
+    "amount": 29447.62,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0007",
+    "target_id": "ACC_0023",
+    "amount": 32655.19,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0001",
+    "target_id": "ACC_0042",
+    "amount": 7582.96,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0020",
+    "target_id": "ACC_0022",
+    "amount": 23498.53,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0087",
+    "target_id": "ACC_0027",
+    "amount": 31682.45,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0027",
+    "target_id": "ACC_0050",
+    "amount": 22788.82,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0005",
+    "target_id": "ACC_0040",
+    "amount": 21485.65,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0081",
+    "target_id": "ACC_0012",
+    "amount": 14137.74,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0039",
+    "target_id": "ACC_0045",
+    "amount": 2382.72,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0007",
+    "target_id": "ACC_0030",
+    "amount": 26741.17,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0098",
+    "target_id": "ACC_0028",
+    "amount": 5867.64,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0099",
+    "target_id": "ACC_0035",
+    "amount": 11500.07,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0076",
+    "target_id": "ACC_0074",
+    "amount": 18174.83,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0050",
+    "target_id": "ACC_0019",
+    "amount": 38547.74,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0098",
+    "target_id": "ACC_0088",
+    "amount": 44295.14,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0079",
+    "target_id": "ACC_0058",
+    "amount": 43575.15,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0004",
+    "target_id": "ACC_0075",
+    "amount": 47605.1,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0064",
+    "target_id": "ACC_0036",
+    "amount": 41533.83,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0071",
+    "target_id": "ACC_0016",
+    "amount": 34744.26,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0080",
+    "target_id": "ACC_0028",
+    "amount": 1473.09,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0073",
+    "target_id": "ACC_0012",
+    "amount": 43596.26,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0053",
+    "target_id": "ACC_0035",
+    "amount": 19421.38,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0084",
+    "target_id": "ACC_0041",
+    "amount": 14154.98,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0081",
+    "target_id": "ACC_0073",
+    "amount": 35744.7,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0031",
+    "target_id": "ACC_0088",
+    "amount": 45443.24,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0002",
+    "target_id": "ACC_0047",
+    "amount": 20744.59,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0029",
+    "target_id": "ACC_0096",
+    "amount": 12402.04,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0081",
+    "target_id": "ACC_0077",
+    "amount": 43812.04,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0070",
+    "target_id": "ACC_0005",
+    "amount": 37175.79,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0014",
+    "target_id": "ACC_0023",
+    "amount": 23334.97,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0036",
+    "target_id": "ACC_0030",
+    "amount": 25992.4,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0019",
+    "target_id": "ACC_0080",
+    "amount": 15525.21,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0040",
+    "target_id": "ACC_0098",
+    "amount": 29874.41,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0027",
+    "target_id": "ACC_0080",
+    "amount": 9008.55,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0047",
+    "target_id": "ACC_0060",
+    "amount": 25269.85,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0000",
+    "target_id": "ACC_0074",
+    "amount": 37203.56,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0045",
+    "target_id": "ACC_0037",
+    "amount": 17454.55,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0010",
+    "target_id": "ACC_0013",
+    "amount": 25476.34,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0068",
+    "target_id": "ACC_0034",
+    "amount": 27325.0,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0098",
+    "target_id": "ACC_0068",
+    "amount": 26959.97,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0036",
+    "target_id": "ACC_0058",
+    "amount": 32953.77,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0026",
+    "target_id": "ACC_0040",
+    "amount": 33346.27,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0057",
+    "target_id": "ACC_0000",
+    "amount": 21793.08,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0033",
+    "target_id": "ACC_0097",
+    "amount": 30255.68,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0058",
+    "target_id": "ACC_0092",
+    "amount": 34178.45,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0089",
+    "target_id": "ACC_0009",
+    "amount": 29540.64,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0079",
+    "target_id": "ACC_0004",
+    "amount": 4272.79,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0084",
+    "target_id": "ACC_0008",
+    "amount": 1903.53,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0051",
+    "target_id": "ACC_0088",
+    "amount": 3625.49,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0003",
+    "target_id": "ACC_0005",
+    "amount": 15914.25,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0047",
+    "target_id": "ACC_0005",
+    "amount": 40472.2,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0095",
+    "target_id": "ACC_0089",
+    "amount": 4603.97,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0053",
+    "target_id": "ACC_0040",
+    "amount": 29357.57,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0030",
+    "target_id": "ACC_0077",
+    "amount": 44344.26,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0045",
+    "target_id": "ACC_0072",
+    "amount": 12658.96,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0025",
+    "target_id": "ACC_0094",
+    "amount": 34087.08,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0000",
+    "target_id": "ACC_0036",
+    "amount": 7667.97,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0023",
+    "target_id": "ACC_0063",
+    "amount": 28786.32,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0046",
+    "target_id": "ACC_0091",
+    "amount": 49779.51,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0098",
+    "target_id": "ACC_0079",
+    "amount": 19549.18,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0088",
+    "target_id": "ACC_0047",
+    "amount": 30596.47,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0072",
+    "target_id": "ACC_0045",
+    "amount": 14543.25,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0043",
+    "target_id": "ACC_0079",
+    "amount": 41368.04,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0062",
+    "target_id": "ACC_0046",
+    "amount": 2123.72,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0041",
+    "target_id": "ACC_0015",
+    "amount": 43902.58,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0097",
+    "target_id": "ACC_0036",
+    "amount": 85040.69,
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0031",
+    "target_id": "ACC_0012",
+    "amount": 7530.9,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0010",
+    "target_id": "ACC_0012",
+    "amount": 26647.53,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0029",
+    "target_id": "ACC_0022",
+    "amount": 36035.02,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0055",
+    "target_id": "ACC_0064",
+    "amount": 22146.69,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0025",
+    "target_id": "ACC_0033",
+    "amount": 49675.96,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0037",
+    "target_id": "ACC_0062",
+    "amount": 65846.73,
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0035",
+    "target_id": "ACC_0097",
+    "amount": 3154.68,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0060",
+    "target_id": "ACC_0088",
+    "amount": 27382.33,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0006",
+    "target_id": "ACC_0051",
+    "amount": 28719.52,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0060",
+    "target_id": "ACC_0035",
+    "amount": 45688.96,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0075",
+    "target_id": "ACC_0053",
+    "amount": 14384.72,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0039",
+    "target_id": "ACC_0030",
+    "amount": 4951.51,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0023",
+    "target_id": "ACC_0044",
+    "amount": 27193.46,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0087",
+    "target_id": "ACC_0082",
+    "amount": 43838.75,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0056",
+    "target_id": "ACC_0020",
+    "amount": 29919.45,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0039",
+    "target_id": "ACC_0088",
+    "amount": 31287.98,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0017",
+    "target_id": "ACC_0030",
+    "amount": 32630.27,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0083",
+    "target_id": "ACC_0085",
+    "amount": 47885.99,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0067",
+    "target_id": "ACC_0026",
+    "amount": 21579.12,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0047",
+    "target_id": "ACC_0052",
+    "amount": 18345.88,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0006",
+    "target_id": "ACC_0049",
+    "amount": 6455.21,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0059",
+    "target_id": "ACC_0037",
+    "amount": 1734.27,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0090",
+    "target_id": "ACC_0006",
+    "amount": 25977.55,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0034",
+    "target_id": "ACC_0073",
+    "amount": 29995.39,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0060",
+    "target_id": "ACC_0074",
+    "amount": 39128.55,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0085",
+    "target_id": "ACC_0074",
+    "amount": 26182.86,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0010",
+    "target_id": "ACC_0036",
+    "amount": 25697.35,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0058",
+    "target_id": "ACC_0099",
+    "amount": 24925.84,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0094",
+    "target_id": "ACC_0017",
+    "amount": 25545.87,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0095",
+    "target_id": "ACC_0049",
+    "amount": 24852.49,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0032",
+    "target_id": "ACC_0048",
+    "amount": 48396.56,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0066",
+    "target_id": "ACC_0039",
+    "amount": 29430.77,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0011",
+    "target_id": "ACC_0063",
+    "amount": 24437.49,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0035",
+    "target_id": "ACC_0067",
+    "amount": 34157.62,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0098",
+    "target_id": "ACC_0059",
+    "amount": 9514.79,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0052",
+    "target_id": "ACC_0060",
+    "amount": 45384.73,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0091",
+    "target_id": "ACC_0013",
+    "amount": 29734.94,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0025",
+    "target_id": "ACC_0077",
+    "amount": 3363.11,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0013",
+    "target_id": "ACC_0057",
+    "amount": 45016.51,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0014",
+    "target_id": "ACC_0073",
+    "amount": 3166.88,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0051",
+    "target_id": "ACC_0048",
+    "amount": 28827.0,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0082",
+    "target_id": "ACC_0001",
+    "amount": 27823.12,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0036",
+    "target_id": "ACC_0007",
+    "amount": 20379.82,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0074",
+    "target_id": "ACC_0040",
+    "amount": 18307.39,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0099",
+    "target_id": "ACC_0016",
+    "amount": 30929.65,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0058",
+    "target_id": "ACC_0056",
+    "amount": 9019.7,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0055",
+    "target_id": "ACC_0049",
+    "amount": 4524.07,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0046",
+    "target_id": "ACC_0074",
+    "amount": 97204.15,
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0006",
+    "target_id": "ACC_0087",
+    "amount": 30522.83,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0060",
+    "target_id": "ACC_0071",
+    "amount": 47611.06,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0070",
+    "target_id": "ACC_0051",
+    "amount": 42451.36,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0037",
+    "target_id": "ACC_0041",
+    "amount": 41694.34,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0000",
+    "target_id": "ACC_0038",
+    "amount": 24071.79,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0064",
+    "target_id": "ACC_0054",
+    "amount": 15496.16,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0095",
+    "target_id": "ACC_0051",
+    "amount": 1970.57,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0010",
+    "target_id": "ACC_0048",
+    "amount": 35571.61,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0064",
+    "target_id": "ACC_0023",
+    "amount": 45777.3,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0006",
+    "target_id": "ACC_0083",
+    "amount": 49859.01,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0093",
+    "target_id": "ACC_0099",
+    "amount": 10574.13,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0014",
+    "target_id": "ACC_0059",
+    "amount": 22090.24,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0077",
+    "target_id": "ACC_0045",
+    "amount": 45612.75,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0061",
+    "target_id": "ACC_0084",
+    "amount": 34704.24,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0066",
+    "target_id": "ACC_0063",
+    "amount": 16199.48,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0075",
+    "target_id": "ACC_0031",
+    "amount": 40955.35,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0096",
+    "target_id": "ACC_0070",
+    "amount": 26837.55,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0016",
+    "target_id": "ACC_0007",
+    "amount": 36203.47,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0029",
+    "target_id": "ACC_0033",
+    "amount": 2550.46,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0049",
+    "target_id": "ACC_0072",
+    "amount": 40184.15,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0037",
+    "target_id": "ACC_0049",
+    "amount": 45050.8,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0073",
+    "target_id": "ACC_0007",
+    "amount": 44174.61,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0013",
+    "target_id": "ACC_0045",
+    "amount": 4521.53,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0064",
+    "target_id": "ACC_0079",
+    "amount": 33519.83,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0080",
+    "target_id": "ACC_0045",
+    "amount": 36292.08,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0025",
+    "target_id": "ACC_0070",
+    "amount": 19547.0,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0060",
+    "target_id": "ACC_0003",
+    "amount": 18397.35,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0089",
+    "target_id": "ACC_0083",
+    "amount": 21568.35,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0010",
+    "target_id": "ACC_0000",
+    "amount": 12961.24,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0005",
+    "target_id": "ACC_0077",
+    "amount": 44909.94,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0044",
+    "target_id": "ACC_0055",
+    "amount": 17720.35,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0058",
+    "target_id": "ACC_0060",
+    "amount": 33064.4,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0097",
+    "target_id": "ACC_0066",
+    "amount": 42846.63,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0009",
+    "target_id": "ACC_0089",
+    "amount": 18588.68,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0086",
+    "target_id": "ACC_0025",
+    "amount": 19747.54,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0092",
+    "target_id": "ACC_0066",
+    "amount": 44659.87,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0060",
+    "target_id": "ACC_0022",
+    "amount": 5241.86,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0005",
+    "target_id": "ACC_0055",
+    "amount": 32697.16,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0061",
+    "target_id": "ACC_0058",
+    "amount": 4353.59,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0049",
+    "target_id": "ACC_0067",
+    "amount": 30379.9,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0070",
+    "target_id": "ACC_0010",
+    "amount": 29061.78,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0084",
+    "target_id": "ACC_0010",
+    "amount": 5583.8,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0071",
+    "target_id": "ACC_0000",
+    "amount": 17950.48,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0035",
+    "target_id": "ACC_0097",
+    "amount": 65854.55,
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0013",
+    "target_id": "ACC_0057",
+    "amount": 28173.83,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0087",
+    "target_id": "ACC_0036",
+    "amount": 26253.52,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0016",
+    "target_id": "ACC_0042",
+    "amount": 20347.07,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0022",
+    "target_id": "ACC_0049",
+    "amount": 32511.92,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0091",
+    "target_id": "ACC_0033",
+    "amount": 43832.78,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0010",
+    "target_id": "ACC_0014",
+    "amount": 41610.76,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0020",
+    "target_id": "ACC_0068",
+    "amount": 4530.61,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0072",
+    "target_id": "ACC_0093",
+    "amount": 44185.57,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0076",
+    "target_id": "ACC_0032",
+    "amount": 18158.98,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0036",
+    "target_id": "ACC_0008",
+    "amount": 17954.73,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0038",
+    "target_id": "ACC_0039",
+    "amount": 26155.04,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0031",
+    "target_id": "ACC_0020",
+    "amount": 15390.71,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0089",
+    "target_id": "ACC_0086",
+    "amount": 18317.16,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0056",
+    "target_id": "ACC_0025",
+    "amount": 15672.35,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0007",
+    "target_id": "ACC_0031",
+    "amount": 4029.61,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0087",
+    "target_id": "ACC_0037",
+    "amount": 41293.96,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0033",
+    "target_id": "ACC_0018",
+    "amount": 35395.35,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0009",
+    "target_id": "ACC_0037",
+    "amount": 32625.78,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0076",
+    "target_id": "ACC_0057",
+    "amount": 21984.82,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0049",
+    "target_id": "ACC_0062",
+    "amount": 39184.2,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0000",
+    "target_id": "ACC_0062",
+    "amount": 43777.1,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0064",
+    "target_id": "ACC_0078",
+    "amount": 34389.21,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0055",
+    "target_id": "ACC_0061",
+    "amount": 21025.84,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0034",
+    "target_id": "ACC_0000",
+    "amount": 11863.85,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0073",
+    "target_id": "ACC_0052",
+    "amount": 31929.25,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0080",
+    "target_id": "ACC_0031",
+    "amount": 11980.98,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0059",
+    "target_id": "ACC_0049",
+    "amount": 11082.55,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0002",
+    "target_id": "ACC_0031",
+    "amount": 47204.22,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0015",
+    "target_id": "ACC_0098",
+    "amount": 13393.29,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0085",
+    "target_id": "ACC_0046",
+    "amount": 39498.41,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0075",
+    "target_id": "ACC_0037",
+    "amount": 42187.2,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0012",
+    "target_id": "ACC_0081",
+    "amount": 43221.77,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0009",
+    "target_id": "ACC_0030",
+    "amount": 18823.22,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0068",
+    "target_id": "ACC_0076",
+    "amount": 31404.97,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0004",
+    "target_id": "ACC_0085",
+    "amount": 5571.32,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0006",
+    "target_id": "ACC_0071",
+    "amount": 27192.38,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0090",
+    "target_id": "ACC_0013",
+    "amount": 12873.76,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0023",
+    "target_id": "ACC_0002",
+    "amount": 24022.25,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0010",
+    "target_id": "ACC_0077",
+    "amount": 41889.72,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0035",
+    "target_id": "ACC_0051",
+    "amount": 33352.66,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0026",
+    "target_id": "ACC_0084",
+    "amount": 7658.08,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0025",
+    "target_id": "ACC_0026",
+    "amount": 10204.04,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0022",
+    "target_id": "ACC_0044",
+    "amount": 13539.05,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0080",
+    "target_id": "ACC_0083",
+    "amount": 34919.25,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0046",
+    "target_id": "ACC_0085",
+    "amount": 33365.44,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0019",
+    "target_id": "ACC_0041",
+    "amount": 5597.99,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0091",
+    "target_id": "ACC_0085",
+    "amount": 31092.1,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0094",
+    "target_id": "ACC_0022",
+    "amount": 9209.11,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0039",
+    "target_id": "ACC_0048",
+    "amount": 42869.53,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0024",
+    "target_id": "ACC_0034",
+    "amount": 20186.15,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0002",
+    "target_id": "ACC_0046",
+    "amount": 12417.07,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0035",
+    "target_id": "ACC_0097",
+    "amount": 2589.19,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0047",
+    "target_id": "ACC_0058",
+    "amount": 33254.3,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0011",
+    "target_id": "ACC_0050",
+    "amount": 15727.98,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0010",
+    "target_id": "ACC_0013",
+    "amount": 31302.79,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0084",
+    "target_id": "ACC_0013",
+    "amount": 32984.86,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0013",
+    "target_id": "ACC_0011",
+    "amount": 7591.68,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0082",
+    "target_id": "ACC_0075",
+    "amount": 21253.8,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0014",
+    "target_id": "ACC_0085",
+    "amount": 4863.68,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0019",
+    "target_id": "ACC_0029",
+    "amount": 30601.5,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0000",
+    "target_id": "ACC_0046",
+    "amount": 27037.41,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0071",
+    "target_id": "ACC_0094",
+    "amount": 4752.71,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0037",
+    "target_id": "ACC_0098",
+    "amount": 39390.74,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0059",
+    "target_id": "ACC_0008",
+    "amount": 43355.38,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0060",
+    "target_id": "ACC_0005",
+    "amount": 15936.33,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0003",
+    "target_id": "ACC_0011",
+    "amount": 41755.41,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0046",
+    "target_id": "ACC_0062",
+    "amount": 18441.94,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0006",
+    "target_id": "ACC_0086",
+    "amount": 46624.91,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0097",
+    "target_id": "ACC_0037",
+    "amount": 65137.59,
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0029",
+    "target_id": "ACC_0015",
+    "amount": 16937.42,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0078",
+    "target_id": "ACC_0094",
+    "amount": 30729.49,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0090",
+    "target_id": "ACC_0024",
+    "amount": 14725.45,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0045",
+    "target_id": "ACC_0075",
+    "amount": 82419.78,
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0097",
+    "target_id": "ACC_0074",
+    "amount": 30304.93,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0046",
+    "target_id": "ACC_0093",
+    "amount": 25662.35,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0053",
+    "target_id": "ACC_0078",
+    "amount": 35478.47,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0084",
+    "target_id": "ACC_0087",
+    "amount": 4834.75,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0059",
+    "target_id": "ACC_0029",
+    "amount": 13182.4,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0045",
+    "target_id": "ACC_0044",
+    "amount": 41755.78,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0045",
+    "target_id": "ACC_0095",
+    "amount": 16505.8,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0011",
+    "target_id": "ACC_0030",
+    "amount": 41179.81,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0068",
+    "target_id": "ACC_0015",
+    "amount": 37978.76,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0068",
+    "target_id": "ACC_0060",
+    "amount": 47546.03,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0019",
+    "target_id": "ACC_0036",
+    "amount": 18160.86,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0085",
+    "target_id": "ACC_0077",
+    "amount": 49816.64,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0010",
+    "target_id": "ACC_0053",
+    "amount": 1516.4,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0070",
+    "target_id": "ACC_0068",
+    "amount": 15997.81,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0010",
+    "target_id": "ACC_0032",
+    "amount": 18556.33,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0095",
+    "target_id": "ACC_0026",
+    "amount": 10153.08,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0083",
+    "target_id": "ACC_0079",
+    "amount": 30184.58,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0039",
+    "target_id": "ACC_0050",
+    "amount": 13305.22,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0042",
+    "target_id": "ACC_0005",
+    "amount": 29542.55,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0059",
+    "target_id": "ACC_0056",
+    "amount": 36866.09,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0024",
+    "target_id": "ACC_0042",
+    "amount": 37959.54,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0057",
+    "target_id": "ACC_0036",
+    "amount": 1298.46,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0085",
+    "target_id": "ACC_0023",
+    "amount": 7117.27,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0049",
+    "target_id": "ACC_0079",
+    "amount": 20780.97,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0006",
+    "target_id": "ACC_0092",
+    "amount": 15133.87,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0002",
+    "target_id": "ACC_0048",
+    "amount": 15048.7,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0094",
+    "target_id": "ACC_0076",
+    "amount": 43232.21,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0036",
+    "target_id": "ACC_0072",
+    "amount": 22134.66,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0074",
+    "target_id": "ACC_0047",
+    "amount": 13349.86,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0075",
+    "target_id": "ACC_0096",
+    "amount": 36210.21,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0054",
+    "target_id": "ACC_0090",
+    "amount": 43742.09,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0031",
+    "target_id": "ACC_0090",
+    "amount": 47171.09,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0006",
+    "target_id": "ACC_0047",
+    "amount": 35885.07,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0018",
+    "target_id": "ACC_0073",
+    "amount": 35578.9,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0008",
+    "target_id": "ACC_0053",
+    "amount": 48290.63,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0086",
+    "target_id": "ACC_0005",
+    "amount": 15500.18,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0082",
+    "target_id": "ACC_0002",
+    "amount": 49206.0,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0091",
+    "target_id": "ACC_0055",
+    "amount": 39595.89,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0057",
+    "target_id": "ACC_0033",
+    "amount": 17782.36,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0095",
+    "target_id": "ACC_0035",
+    "amount": 3716.65,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0077",
+    "target_id": "ACC_0039",
+    "amount": 17895.28,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0037",
+    "target_id": "ACC_0051",
+    "amount": 25250.78,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0004",
+    "target_id": "ACC_0019",
+    "amount": 45697.35,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0020",
+    "target_id": "ACC_0076",
+    "amount": 15727.3,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0033",
+    "target_id": "ACC_0097",
+    "amount": 44470.64,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0050",
+    "target_id": "ACC_0069",
+    "amount": 8897.65,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0078",
+    "target_id": "ACC_0048",
+    "amount": 12310.36,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0054",
+    "target_id": "ACC_0079",
+    "amount": 41262.36,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0056",
+    "target_id": "ACC_0057",
+    "amount": 16071.89,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0097",
+    "target_id": "ACC_0088",
+    "amount": 7860.36,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0072",
+    "target_id": "ACC_0089",
+    "amount": 24227.11,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0093",
+    "target_id": "ACC_0059",
+    "amount": 37886.91,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0079",
+    "target_id": "ACC_0044",
+    "amount": 25006.37,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0093",
+    "target_id": "ACC_0069",
+    "amount": 13944.96,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0025",
+    "target_id": "ACC_0049",
+    "amount": 2082.63,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0034",
+    "target_id": "ACC_0054",
+    "amount": 30257.7,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0094",
+    "target_id": "ACC_0092",
+    "amount": 35576.4,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0042",
+    "target_id": "ACC_0036",
+    "amount": 42018.71,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0057",
+    "target_id": "ACC_0040",
+    "amount": 11260.63,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0090",
+    "target_id": "ACC_0086",
+    "amount": 31555.72,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0033",
+    "target_id": "ACC_0079",
+    "amount": 17255.99,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0098",
+    "target_id": "ACC_0002",
+    "amount": 33599.4,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0051",
+    "target_id": "ACC_0090",
+    "amount": 24073.46,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0035",
+    "target_id": "ACC_0032",
+    "amount": 25953.41,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0082",
+    "target_id": "ACC_0026",
+    "amount": 23085.13,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0073",
+    "target_id": "ACC_0088",
+    "amount": 14704.65,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0015",
+    "target_id": "ACC_0001",
+    "amount": 23737.18,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0062",
+    "target_id": "ACC_0035",
+    "amount": 63831.31,
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0001",
+    "target_id": "ACC_0003",
+    "amount": 25694.53,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0085",
+    "target_id": "ACC_0012",
+    "amount": 28017.44,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0024",
+    "target_id": "ACC_0056",
+    "amount": 7177.95,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0046",
+    "target_id": "ACC_0003",
+    "amount": 3252.57,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0001",
+    "target_id": "ACC_0027",
+    "amount": 3706.69,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0001",
+    "target_id": "ACC_0095",
+    "amount": 31908.51,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0004",
+    "target_id": "ACC_0081",
+    "amount": 33253.7,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0091",
+    "target_id": "ACC_0057",
+    "amount": 8666.25,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0049",
+    "target_id": "ACC_0057",
+    "amount": 46042.56,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0085",
+    "target_id": "ACC_0090",
+    "amount": 13323.83,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0006",
+    "target_id": "ACC_0004",
+    "amount": 38435.86,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0005",
+    "target_id": "ACC_0046",
+    "amount": 42550.1,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0045",
+    "target_id": "ACC_0007",
+    "amount": 1394.84,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0068",
+    "target_id": "ACC_0025",
+    "amount": 37599.62,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0063",
+    "target_id": "ACC_0022",
+    "amount": 27606.71,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0099",
+    "target_id": "ACC_0076",
+    "amount": 45802.56,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0039",
+    "target_id": "ACC_0020",
+    "amount": 20818.83,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0091",
+    "target_id": "ACC_0067",
+    "amount": 15601.27,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0036",
+    "target_id": "ACC_0030",
+    "amount": 26668.23,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0029",
+    "target_id": "ACC_0043",
+    "amount": 27266.02,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0096",
+    "target_id": "ACC_0078",
+    "amount": 48214.84,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0098",
+    "target_id": "ACC_0041",
+    "amount": 28992.1,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0013",
+    "target_id": "ACC_0063",
+    "amount": 15986.71,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0097",
+    "target_id": "ACC_0035",
+    "amount": 5168.47,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0054",
+    "target_id": "ACC_0055",
+    "amount": 33348.67,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0051",
+    "target_id": "ACC_0011",
+    "amount": 24560.81,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0031",
+    "target_id": "ACC_0058",
+    "amount": 37865.3,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0098",
+    "target_id": "ACC_0071",
+    "amount": 4486.11,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0095",
+    "target_id": "ACC_0004",
+    "amount": 16820.87,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0047",
+    "target_id": "ACC_0031",
+    "amount": 42437.77,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0078",
+    "target_id": "ACC_0081",
+    "amount": 12371.53,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0030",
+    "target_id": "ACC_0052",
+    "amount": 32298.85,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0087",
+    "target_id": "ACC_0077",
+    "amount": 7189.46,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0049",
+    "target_id": "ACC_0058",
+    "amount": 19838.92,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0004",
+    "target_id": "ACC_0062",
+    "amount": 48302.28,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0010",
+    "target_id": "ACC_0036",
+    "amount": 7489.92,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0006",
+    "target_id": "ACC_0064",
+    "amount": 34162.92,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0039",
+    "target_id": "ACC_0046",
+    "amount": 2119.57,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0069",
+    "target_id": "ACC_0021",
+    "amount": 39813.38,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0050",
+    "target_id": "ACC_0059",
+    "amount": 12956.51,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0075",
+    "target_id": "ACC_0021",
+    "amount": 32462.52,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0051",
+    "target_id": "ACC_0010",
+    "amount": 6297.48,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0046",
+    "target_id": "ACC_0008",
+    "amount": 40829.93,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0000",
+    "target_id": "ACC_0016",
+    "amount": 6137.44,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0062",
+    "target_id": "ACC_0054",
+    "amount": 23875.43,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0039",
+    "target_id": "ACC_0055",
+    "amount": 7206.79,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0014",
+    "target_id": "ACC_0084",
+    "amount": 15932.64,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0097",
+    "target_id": "ACC_0025",
+    "amount": 12789.67,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0091",
+    "target_id": "ACC_0001",
+    "amount": 25938.72,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0018",
+    "target_id": "ACC_0098",
+    "amount": 43079.2,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0015",
+    "target_id": "ACC_0006",
+    "amount": 29012.14,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0035",
+    "target_id": "ACC_0076",
+    "amount": 25433.95,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0094",
+    "target_id": "ACC_0037",
+    "amount": 15307.89,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0043",
+    "target_id": "ACC_0078",
+    "amount": 38873.04,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0059",
+    "target_id": "ACC_0088",
+    "amount": 27370.13,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0048",
+    "target_id": "ACC_0004",
+    "amount": 21095.61,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0029",
+    "target_id": "ACC_0069",
+    "amount": 21064.81,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0095",
+    "target_id": "ACC_0082",
+    "amount": 40995.35,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0042",
+    "target_id": "ACC_0001",
+    "amount": 35546.39,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0054",
+    "target_id": "ACC_0028",
+    "amount": 44399.95,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0084",
+    "target_id": "ACC_0014",
+    "amount": 19810.55,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0024",
+    "target_id": "ACC_0008",
+    "amount": 25495.8,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0033",
+    "target_id": "ACC_0034",
+    "amount": 31756.76,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0000",
+    "target_id": "ACC_0029",
+    "amount": 22779.82,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0045",
+    "target_id": "ACC_0008",
+    "amount": 35594.01,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0010",
+    "target_id": "ACC_0090",
+    "amount": 40551.8,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "USD"
+  },
+  {
+    "source_id": "ACC_0083",
+    "target_id": "ACC_0085",
+    "amount": 49578.32,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0002",
+    "target_id": "ACC_0039",
+    "amount": 40397.51,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0039",
+    "target_id": "ACC_0032",
+    "amount": 23238.74,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0008",
+    "target_id": "ACC_0092",
+    "amount": 8583.6,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0093",
+    "target_id": "ACC_0089",
+    "amount": 6505.04,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  },
+  {
+    "source_id": "ACC_0097",
+    "target_id": "ACC_0019",
+    "amount": 9236.58,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "GBP"
+  },
+  {
+    "source_id": "ACC_0016",
+    "target_id": "ACC_0052",
+    "amount": 15309.08,
+    "timestamp": "26/11/2024, 12:00:00",
+    "currency": "EUR"
+  }
+]
